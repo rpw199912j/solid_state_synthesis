@@ -1,1 +1,1 @@
-# solid_state_synthesis
+# Solid State Synthesis
